@@ -1,0 +1,21 @@
+Customer_ID,City,Product,Education_Level,Sales
+101,Bengaluru,Laptop,Graduate,55000
+102,Hyderabad,Phone,Postgraduate,30000
+103,Chennai,Tablet,Graduate,18000
+104,Mumbai,Laptop,Postgraduate,65000
+105,Delhi,Phone,High School,25000
+106,Bengaluru,Phone,Graduate,22000
+107,Hyderabad,Laptop,Postgraduate,58000
+108,Chennai,Phone,Graduate,27000
+109,Mumbai,Tablet,High School,15000
+110,Delhi,Laptop,Postgraduate,62000
+111,Bengaluru,Tablet,Graduate,28000
+112,Hyderabad,Phone,High School,35000
+113,Mumbai,Laptop,Postgraduate,72000
+114,Delhi,Tablet,Graduate,20000
+115,Bengaluru,Phone,Postgraduate,40000
+116,Chennai,Laptop,Graduate,50000
+117,Mumbai,Phone,High School,23000
+118,Delhi,Laptop,Graduate,60000
+119,Hyderabad,Tablet,Postgraduate,32000
+120,Bengaluru,Laptop,Postgraduate,75000

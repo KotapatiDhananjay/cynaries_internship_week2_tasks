@@ -1,0 +1,6 @@
+Feature,Score
+Sales_StandardScaler,1.7976931348623157e+308
+Product_Label,55.68310804730099
+Education_Ordinal,10.62623957876261
+Customer_ID,0.82640970028979
+Sales_MinMaxScaler,-4.053239664633448e+16
