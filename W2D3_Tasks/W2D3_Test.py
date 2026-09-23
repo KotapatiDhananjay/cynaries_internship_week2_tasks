@@ -65,5 +65,4 @@ assert len(X_test) > 0
 
 assert len(y_test) > 0
 
-
 print("All W2D3 SMOTE tests passed successfully!")
