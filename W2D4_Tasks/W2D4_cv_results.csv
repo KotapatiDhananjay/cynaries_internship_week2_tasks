@@ -1,0 +1,9 @@
+Metric,Score
+Test Accuracy,0.93
+CV Fold 1,0.93
+CV Fold 2,0.92
+CV Fold 3,0.925
+CV Fold 4,0.89
+CV Fold 5,0.9
+Mean CV Accuracy,0.913
+CV Standard Deviation,0.015362291495737231
